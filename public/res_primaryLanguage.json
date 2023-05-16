@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "Hello World 👋 I'm Jonathan Staib. A new software developer in the community :) I am going to soon be taking a full-stack JavaScript course to get my certification. I was currently working in the healthcare industry and was also a competitor in E-Sports. Thank you so much for checking out my portfolio! If you want to talk some code or play some games,reach out to me on my LinkedIn. Thank you! 💜",
+      "description": "Hello World 👋 I'm Jonathan Staib. A new Full Stack Software Developer in the community :) I have a background in healthcare and service but I wanted to pursure my passion in coding. I am passionate about solving tough problems and creating exciting applications to help the community and the world. Thank you so much for checking out my portfolio! If you want to talk some code or play some games, reach out to me on my LinkedIn. Thank you! 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -12,11 +12,11 @@
     "projects": [
       {
         "title": "Rock Paper Poke",
-        "startDate": "2020",
+        "startDate": "2022",
         "description": "A great game for pokemon lovers! It is a game that can either be very fun for the user or help you solve real life problems the same way that rock paper scissors could. It uses pokemons battling and winner is determined on their element type!",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/rockPaperPoke/game.png",
+          "images/portfolio/rockPaperPoke/pokedex.png"
         ],
         "url": "",
         "technologies": [
@@ -35,19 +35,15 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Terminal Trivia Trials",
+        "startDate": "2023",
+        "description": "A fun game of multiplayer trivia inside of your terminal with your friends. This was a group project for study on how we could make an app, back end only. This was a great way for us to learn how to utilize inquirer and socket with events listening to one another!",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/TTT/TTTgame.png",
+          "images/portfolio/TTT/TerminalTriviaTrialsBoard.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/team-socket/Terminal-Trivia-Trials",
         "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
@@ -55,26 +51,26 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Learn hub",
+        "startDate": "2023",
+        "description": "A community based learning application where the community can share their knowledge to others in the community! This was another group project for study to further our tools in react and redux. It was also a great way to refresh on Mongo. I feel that given some extra love this could be a great app if given time and the communities support!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/learnhub/landingPage.png",
+          "images/portfolio/learnhub/LearnhubUML.png"
         ],
-        "url": "https://github.com/jonathanstaib",
+        "url": "https://learn-hub-react.netlify.app/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original",
+            "name": "react"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
       }
@@ -116,7 +112,7 @@
       {
         "company": "Code Fellows",
         "title": "Student",
-        "years": "09.2022 - expected 02.2023",
+        "years": "09.2022 - 04.2023",
         "mainTech": [
           "Coding 10"
         ],

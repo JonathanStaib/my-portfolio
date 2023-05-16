@@ -32,6 +32,11 @@
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
           "level": "70"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "70"
         }
       ]
     }
