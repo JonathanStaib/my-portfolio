@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Projects from "./Projects";
 import Skills from "./Skills";
-import Experience from "./Experience";
+// import Experience from "./Experience";
 
 class Home extends Component {
   render() {
@@ -15,10 +15,10 @@ class Home extends Component {
           sharedSkills={this.props.sharedData.skills}
           resumeBasicInfo={this.props.resumeData.basic_info}
         />
-        <Experience
+        {/* <Experience
           resumeExperience={this.props.resumeData.experience}
           resumeBasicInfo={this.props.resumeData.basic_info}
-        />
+        /> */}
       </div>
     );
   }

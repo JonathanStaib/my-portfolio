@@ -4,14 +4,14 @@
       "titles": [ "Software Developer" ],
       "social": [
         {
-          "name": "github",
-          "url": "https://github.com/JonathanStaib",
-          "class": "fab fa-github"
-        },
-        {
           "name": "linkedin",
           "url": "https://www.linkedin.com/in/jonathan-staib-536220223/",
           "class": "fab fa-linkedin"
+        },
+        {
+          "name": "github",
+          "url": "https://github.com/JonathanStaib",
+          "class": "fab fa-github"
         }
       ],
       "image": "myProfile.jpg"
